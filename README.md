@@ -9,7 +9,7 @@ The main file is test.py, it requires no arguments. .
 
 To run the code : python test.py
 
-#Authors: 
+## Authors: 
 ***
 Alexandre Di Piazza
 Elodie Adam
